@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Edis\Desktop\App\|ftp.byethost7.com\|ftp://ftp.byethost7.com/|ftp://byethost7.com/|dotnetgate.com\</PublishUrlHistory>
+    <InstallUrlHistory>https://byet.host/|https://byethost7.com/|https://taka.byethost7.com/|https://dotnetgate.com/|https://profreehost.com/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://taka.byethost7.com/|https://byet.host/|https://dotnetgate.com/|https://profreehost.com/|https://unaux.com/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
